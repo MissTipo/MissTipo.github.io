@@ -14,35 +14,42 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: Dorine Tipo # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: Software Engineer # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  I am a Back End Software Engineer currently expanding my skill set with a focus on System Engineering and DevOps.
+Recently certified in Docker Essentials and pursuing advanced certifications in Containers, Kubernetes, and
+Istio, My drive for continuous learning fuels my pursuit of new technologies. Beyond back-end development, I actively
+contribute to open-source projects, including Apache Airflow and Kubernetes.
+This experience, coupled with my participation in the LFX Linux Kernel Bug Fixing Mentorship Program, has as equipped
+me with a strong foundation in collaborative development practices, problem-solving methodologies, and the ability to
+work with and navigate large codebases.
+I'm a resilient and proactive team player, eager to leverage my evolving expertise and contribute to a dynamic team
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://MissTipo.github.io"
 
 github:
-  username: github_username # change to your github username
+  username: MissTipo # change to your github username
 
 twitter:
-  username: twitter_username # change to your twitter username
+  username: awinotipo # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+  name: Dorine Tipo
+  email: dorine.a.tipo@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username # change to your twitter homepage
-    - https://github.com/username # change to your github homepage
+    - https://github.com/MissTipo # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/dorine-tipo-977a92164/
 
 # Site Verification Settings
 webmaster_verifications:
@@ -97,6 +104,7 @@ cdn:
 
 # the avatar on sidebar, support local or CORS resources
 avatar:
+  https://media.licdn.com/dms/image/D4D03AQHSyTJdDCa47A/profile-displayphoto-shrink_800_800/0/1693321664516?e=1723075200&v=beta&t=TAlwVSVDmgwRd6vyFYC16jr_S2CR8JodEYpIGqg2MxI
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
